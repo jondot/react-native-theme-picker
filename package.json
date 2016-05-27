@@ -1,0 +1,11 @@
+{
+  "name": "react-native-theme-picker",
+  "version": "1.0.0",
+  "description": "A colorful theme picker control for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dotan Nahum",
+  "license": "ISC"
+}
