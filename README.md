@@ -1,5 +1,7 @@
 # react-native-theme-picker
 
+[![Join the chat at https://gitter.im/jondot/react-native-theme-picker](https://badges.gitter.im/jondot/react-native-theme-picker.svg)](https://gitter.im/jondot/react-native-theme-picker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A useful control that lets a user select color themes. Good for
 use cases where there isn't an overload of colors.
 
